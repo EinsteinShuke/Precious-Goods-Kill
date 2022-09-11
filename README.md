@@ -1,5 +1,5 @@
-# Precious-Goods-Kill
-> 贵物杀
+# 贵物杀
+> Precious-Goods-Kill
 
 Delf made card game development 
 
